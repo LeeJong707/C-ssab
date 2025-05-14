@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\ZooApp(배포용)\ZooApp\bin\Debug\ZooApp.exe.config
+C:\Users\PC\Desktop\ZooApp(배포용)\ZooApp\bin\Debug\ZooApp.exe
+C:\Users\PC\Desktop\ZooApp(배포용)\ZooApp\bin\Debug\ZooApp.pdb
+C:\Users\PC\Desktop\ZooApp(배포용)\ZooApp\obj\Debug\ZooApp.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ZooApp(배포용)\ZooApp\obj\Debug\ZooApp.Form1.resources
+C:\Users\PC\Desktop\ZooApp(배포용)\ZooApp\obj\Debug\ZooApp.Properties.Resources.resources
+C:\Users\PC\Desktop\ZooApp(배포용)\ZooApp\obj\Debug\ZooApp.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\ZooApp(배포용)\ZooApp\obj\Debug\ZooApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ZooApp(배포용)\ZooApp\obj\Debug\ZooApp.exe
+C:\Users\PC\Desktop\ZooApp(배포용)\ZooApp\obj\Debug\ZooApp.pdb
