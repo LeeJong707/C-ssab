@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Proj_FinacialLedger_202408039\Proj_FinacialLedger_202408039\bin\Debug\Proj_FinacialLedger_202408039.exe.config
+C:\Users\PC\Desktop\Proj_FinacialLedger_202408039\Proj_FinacialLedger_202408039\bin\Debug\Proj_FinacialLedger_202408039.exe
+C:\Users\PC\Desktop\Proj_FinacialLedger_202408039\Proj_FinacialLedger_202408039\bin\Debug\Proj_FinacialLedger_202408039.pdb
+C:\Users\PC\Desktop\Proj_FinacialLedger_202408039\Proj_FinacialLedger_202408039\obj\Debug\Proj_FinacialLedger_202408039.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Proj_FinacialLedger_202408039\Proj_FinacialLedger_202408039\obj\Debug\Proj_FinacialLedger_202408039.Properties.Resources.resources
+C:\Users\PC\Desktop\Proj_FinacialLedger_202408039\Proj_FinacialLedger_202408039\obj\Debug\Proj_FinacialLedger_202408039.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Proj_FinacialLedger_202408039\Proj_FinacialLedger_202408039\obj\Debug\Proj_FinacialLedger_202408039.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Proj_FinacialLedger_202408039\Proj_FinacialLedger_202408039\obj\Debug\Proj_FinacialLedger_202408039.exe
+C:\Users\PC\Desktop\Proj_FinacialLedger_202408039\Proj_FinacialLedger_202408039\obj\Debug\Proj_FinacialLedger_202408039.pdb
